@@ -8,8 +8,8 @@
 
 > 🎓 **Computer Science Student** @ Babeș-Bolyai University  
 > 🔭 Currently working on **[Raiffeisen Think Tank Lab](https://github.com/LarisaD52/UBB_Backend)**
-> > 👨‍💻 University projects: **[ComputerScienceUBB](https://github.com/LarisaD52/ComputerScienceUBB)**
-> > > ✉️ Contact: **larisamariadragea@gmail.com**
+> 👨‍💻 University projects: **[ComputerScienceUBB](https://github.com/LarisaD52/ComputerScienceUBB)**
+> ✉️ Contact: **larisamariadragea@gmail.com**
 
 ### | Programming languages
 
