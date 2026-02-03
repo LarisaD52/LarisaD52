@@ -7,7 +7,9 @@
 ### | About me
 
 > 🎓 **Computer Science Student** @ Babeș-Bolyai University  
-> 🔭 Currently working on **[Raiffeisen Think Tank Lab](https://github.com/LarisaD52/UBB_Backend)** > 👨‍💻 University projects: **[ComputerScienceUBB](https://github.com/LarisaD52/ComputerScienceUBB)** > ✉️ Contact: **larisamariadragea@gmail.com**
+> 🔭 Currently working on **[Raiffeisen Think Tank Lab](https://github.com/LarisaD52/UBB_Backend)**
+> > 👨‍💻 University projects: **[ComputerScienceUBB](https://github.com/LarisaD52/ComputerScienceUBB)**
+> > > ✉️ Contact: **larisamariadragea@gmail.com**
 
 ### | Programming languages
 
@@ -26,8 +28,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### | GitHub Stats
-<p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=LarisaD52&theme=catppuccin-frappe&hide=repos,stars,forks,contributed&show=reviews,issues_closed&border_width=0.9" />
-</p>
